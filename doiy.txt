@@ -10,8 +10,6 @@ vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?encryption=none&
 vless://2471e7da-5dcd-5da4-983a-3ef758abb17c@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#🇫🇮 Finland
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hubby.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&security=tls&sni=hubby.failspace.top&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://238e492b-bc20-4380-92b6-135d39112ca4@109.68.212.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api8.eaglors.com&fp=chrome&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&sid=52ccb3687fe0b7ec&spx=/&type=tcp&headerType=none
-vless://238e492b-bc20-4380-92b6-135d39112ca4@188.225.45.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api8.eaglors.com&fp=chrome&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&sid=52ccb3687fe0b7ec&spx=/&type=tcp&headerType=none
-vless://238e492b-bc20-4380-92b6-135d39112ca4@188.225.45.152:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0185
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0186
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 JP | 84.247.155.196
@@ -20,5 +18,4 @@ vless://5fc7563b-552d-417f-9409-08ef92284599@192.248.182.183:39244?encryption=no
 vless://5fc7563b-552d-417f-9409-08ef92284599@192.248.182.183:39244?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 192.248.182.183
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub.failspace.top:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=hub.failspace.top#🇬🇧 GB | 50.7.197.204
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@uk-dedic-new-1.failspace.top:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=uk-dedic-new-1.failspace.top#🇬🇧 GB | 50.7.227.251
-vless://cda9ae20-f69f-4112-be95-90cdfc7a21ae@172.66.156.81:80?
 vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#🇩🇪 DE | 172.104.129.6
