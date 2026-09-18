@@ -1,4 +1,13 @@
 # format: v1
+
+
+
+https://raw.githubusercontent.com/drmikecrypto/PulseConfigs/main/verified/configs_base64.txt
+
+
+
+
+
 # Subscription sources for Auto Mode
 #
 # Most clients want one link that returns servers, not a list of links. For that,
