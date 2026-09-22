@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#🇩🇪 Germany
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#🇩🇪 Germany
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?encryption=none&fp=chrome&host=wstg.datasynctrue.online&path=/api/connect&security=tls&sni=wstg.datasynctrue.online&type=ws#🇫🇮 Finland
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?encryption=none&fp=chrome&host=wstg.datasynctrue.online&path=/api/connect&security=tls&sni=wstg.datasynctrue.online&type=ws#🇫🇮 Finland
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#🇲🇩 MD
@@ -23,7 +24,6 @@ vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe
 vless://bf667068-11cb-4c37-a867-4a2b03b45555@104.21.23.72:8880?type=ws&host=flat-sun-b8d3.225-154.workers.dev#🇨🇦 Canada
 vless://999c9769-28db-425a-84d8-ccd7a3321406@172.67.152.71:8880?type=ws&host=jolly-glitter-123c.196-2b3.workers.dev#🇨🇦 Canada
 vless://e0bc6cd5-892b-4b4c-80e4-88ee92e05dc7@188.137.227.194:30393?security=reality&encryption=none&pbk=DiPkDPf7ldR7GvXWLo0j7s7IsdvDZrOUfKHVmHO46mM&headerType=none&fp=chrome&spx=%2F271e254e11440ab&type=tcp&sni=play-apps-features.googleusercontent.com&sid=8559#🇩🇪 Germany
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#🇩🇪 Germany
 vless://2471e7da-5dcd-5da4-983a-3ef758abb17c@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#🇫🇮 Finland
 vless://c08f2e82-b02d-48cf-a742-6b4e4a49f8cd@87.58.147.66:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=Miro.com&fp=chrome&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf&allowInsecure=1#🇫🇮 Finland
 vless://d65a82af-a403-405e-8b7b-27a68b830511@freeman.cvbesty.ir:10210?mode=gun&security=reality&encryption=none&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&fp=chrome&type=grpc&sni=play-apps-features.googleusercontent.com&sid=13121b7150ad7fc6#🇫🇮 Finland
