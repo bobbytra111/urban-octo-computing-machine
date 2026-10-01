@@ -1,7 +1,6 @@
 #profile-title: WVPN
 #profile-update-interval: 1
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?&security=false&fp=chrome&type=ws&headerType=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-SanJose-61ms-Cloudflare%20Inc.
 vless://e19f406e-0f0f-4abd-9861-a3d2d213b650@subnimnet1.ir:80?mode=auto&path=/ws&security=&encryption=none&host=fl.subnimnet2.ir&type=xhttp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%AE-Helsinki-267ms-Hetzner%20Online%20GmbH
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AD%F0%9F%87%B0-HongKong-554ms-Panstar%20Cloud%20Limited
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@spanish67.kovsh.lol:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=spanish67.kovsh.lol&sid=ff776ff77be48b88#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AA%F0%9F%87%B8-Barcelona-577ms-Green%20Floid%20LLC
